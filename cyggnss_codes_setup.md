@@ -1,7 +1,7 @@
 # CYGNSS codes setup
 
 ## Setting Enviroment Variables
-```shell script
+```shell
 export CYGNSS_L1_PATH = PATHNAME
 export SRTM_PATH = PATHNAME
 ```
